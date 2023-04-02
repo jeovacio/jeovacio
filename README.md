@@ -1,7 +1,7 @@
 ### <h1> Oi, Sou Jeovacio Souza 👋 </h1>
 
 - 🔎 <strong> Em busca de uma vaga como dev </strong>
-- 👨🏾‍🎓 <strong> Graduando em Defesa Cibernética - SENAC </strong>
+- 👨🏾‍🎓 <strong> Graduado em Cibersegurança - SENAC </strong>
 - 👩🏾‍💻 <strong> Estou aprendendo HTML5 | CSS3 | JavaScript | SQL | GIT/GITHUB | SEO </strong>
 - 😎 <strong> Colaborativo | Comunicativo | Organizado | Auto Gerenciável | Curioso | Esforçado </strong>
 - 🎮 <strong> Curto Games | Tecnologias Sustentáveis | Cinema | Investimentos | Tatuagens </storng>
