@@ -2,7 +2,8 @@
 
 - 🔎 <strong> Em busca de uma vaga como dev </strong>
 - 👨🏾‍🎓 <strong> Graduado em Cibersegurança - SENAC </strong>
-- 👩🏾‍💻 <strong> Estou aprendendo HTML5 | CSS3 | JavaScript | SQL | GIT/GITHUB | SEO </strong>
+- 👩🏾‍💻 <strong> Já domino HTML5 | CSS3 | JavaScript | GIT/GITHUB | SEO </strong>
+- 👩🏾‍💻 <strong> Estou aprendendo React.js | Node.js | SQL </strong>
 - 😎 <strong> Colaborativo | Comunicativo | Organizado | Auto Gerenciável | Curioso | Esforçado </strong>
 - 🎮 <strong> Curto Games | Tecnologias Sustentáveis | Cinema | Investimentos | Tatuagens </storng>
 - 💬 <strong> Me pergunte como começar no mundo da programação ou venha comigo nessa jornada </strong>
