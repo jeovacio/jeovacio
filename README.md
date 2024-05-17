@@ -2,7 +2,7 @@
 
 - 🔎 <strong> Em busca de uma vaga como dev </strong>
 - 👨🏾‍🎓 <strong> Graduado em Cibersegurança - SENAC </strong>
-- 👩🏾‍💻 <strong> Já domino HTML5 | CSS3 | JavaScript | GIT/GITHUB | SEO </strong>
+- 👩🏾‍💻 <strong> Já domino HTML5 | CSS3 | JavaScript | GIT/GITHUB </strong>
 - 👩🏾‍💻 <strong> Estou aprendendo React.js | Node.js | SQL </strong>
 - 😎 <strong> Colaborativo | Comunicativo | Organizado | Auto Gerenciável | Curioso | Esforçado </strong>
 - 🎮 <strong> Curto Games | Tecnologias Sustentáveis | Cinema | Investimentos | Tatuagens </storng>
@@ -27,7 +27,4 @@
  	<a href="https://www.twitch.tv/jhey3011" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jeovaciosouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeovacio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/jeovacio/jeovacio/blob/output/github-contribution-grid-snake.svg)
-
 </div>
